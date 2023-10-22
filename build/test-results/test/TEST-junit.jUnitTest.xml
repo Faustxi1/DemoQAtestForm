@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="junit.jUnitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-10-22T13:32:25" hostname="DESKTOP-BC2SU6N" time="0.015">
+  <properties/>
+  <testcase name="SecondJunitTest()" classname="junit.jUnitTest" time="0.013"/>
+  <testcase name="FirstJunitTest()" classname="junit.jUnitTest" time="0.001"/>
+  <system-out><![CDATA[    before all
+    this metod 1
+    this test
+    this metod 2
+    this metod 1
+    this test
+    this metod 2
+    after all
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
